@@ -7,4 +7,4 @@ A polymath with a passion for building robust and elegant solutions
 
 I like to work on developer tooling, projects around mental health, and finanacial logistics (the "boring" stuff that keep the world running).
 
- ![Pradhumna's GitHub stats](https://github-readme-stats.vercel.app/api?username=pnpancholi&show_icons=true&theme=transparent&hide_border=true)
+![Prad's GitHub stats](https://github-readme-stats.vercel.app/api?username=pnpancholi&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
